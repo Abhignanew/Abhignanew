@@ -63,6 +63,4 @@
 
 ---
 
-<div align="center">
-  <i>✨ Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate. ✨</i>
-</div>
+
